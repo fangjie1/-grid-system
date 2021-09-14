@@ -29,6 +29,6 @@ bootstrap栅格系统是一套响应式、移动设备优先的流式栅格系�
 .hidden-xs	    隐藏	      可见	可见	可见
 .hidden-sm	    可见	      隐藏	可见	可见
 .hidden-md	    可见	      可见	隐藏	可见
-.hidden-lg	    可见	      可见	可见	隐藏	```
+.hidden-lg	    可见	      可见	可见	隐藏	``
 	
 
